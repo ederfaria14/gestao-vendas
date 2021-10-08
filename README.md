@@ -1,1 +1,1 @@
-# gestaovendas
+# gestao-vendas
